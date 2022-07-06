@@ -1,7 +1,6 @@
 ![Untitled](https://user-images.githubusercontent.com/88290587/169665511-1922b9f7-fe14-4a44-a689-8f71dafb7f29.png)
 
 Habilidades técnicas - Tech skills
-React![image](https://user-images.githubusercontent.com/88290587/177467020-8d4dc7d3-68d5-4d13-a489-78bca164fe8e.png)
 
 
 PROYECTOS RECIENTES - LAST PROJECTS!
