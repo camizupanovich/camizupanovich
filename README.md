@@ -8,6 +8,11 @@ https://finder-app-omega.vercel.app/
 https://findog-app.vercel.app/
 ![findog](https://user-images.githubusercontent.com/88290587/174894969-f137c5cd-e26b-45fc-9431-a93a79e542bd.png)
 
-https://letscook-omega.vercel.app/
-https://weather-app-navy-omega.vercel.app/
+Let's Cook APP => https://letscook-omega.vercel.app/
 
+![food_app](https://user-images.githubusercontent.com/88290587/177466025-5368bd12-d8a6-471d-bce2-e1d99ad64101.png)
+
+
+WEATHER APP => https://weather-app-navy-omega.vercel.app/
+
+![weather_app](https://user-images.githubusercontent.com/88290587/177465918-ca4d2f61-76f9-466c-835b-03976ade32a5.png)
