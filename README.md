@@ -1,44 +1,40 @@
 # Hola soy Camila 🙋‍♀️!
-📌***una joven autodidacta de Buenos Aires, Argentina***
-<p>Me formé como full stack developer👩‍💻 en el bootcamp SoyHenry, pero tengo fuerte orientación por el front end.🎨</p>
+<p>A veces soy Full Stack, pero tengo fuerte orientación por el front end.🎨</p>
 
-* Me gusta darle forma a los conceptos de diseño, pensar en la experiencia del usuario como base principal en cada proyecto y asegurarme de que todo encaje para que no haya problemas en la implementación.
+* Estoy en la zona de confort Javascript/TypeScript pero de vez en cuando analizo codigo java
 
-* Trabajar en equipo conmigo es sentirse libre de poder hablar de los problemas y posibles soluciones, tengo experiencia trabajando con <em>metodologías agiles</em> y apunto mucho al compañerismo y la buena comunicación para llevar adelante un proyecto.🚀
 
-* Me considero una persona proactiva 🦾 y creativa 💡
+## Que tecnologias vas a encontrar en mi github? 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-1A6AB4?style=for-the-badge&logo=oauth&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-3C87C7?style=for-the-badge&logo=primeng&logoColor=white)
+![NG-Zorro](https://img.shields.io/badge/NG--Zorro-009688?style=for-the-badge&logo=ng-zorro&logoColor=white)
+![Google Maps API](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Puedes contactarme📲
+## Dato de color
+<p>Tambien diseño digital full responsive de prototipos. A veces se me da la oportunidad de hacer flyers, logos e imagenes para redes sociales</p>
+
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## Donde encontrarme 📲 ?
 * <a href="https://www.linkedin.com/in/camila-antonela-florencia-zupanovich/"> Linkedin </a>
-* <a href="mailto:cami.zupanovich@hotmail.com" target="_blank"> E-mail </a>
 ### ó visitar mi portafolio
 * https://camila-zupanovich.vercel.app/
-
-## Habilidades técnicas - Tech skills 🛠
-
-* Solido conocimiento en javascript, React, NextJs, Redux, Express, SQL, NodeJs, Sequelize, html, css, design tools, y librerias de diseño como materialUI
-
-![javascript-logo-48](https://user-images.githubusercontent.com/88290587/177467627-eac8ab39-d0aa-44ce-9942-df0eb13c51e3.png) ![react-logo-48](https://user-images.githubusercontent.com/88290587/177467664-875c3cec-d16b-4767-9fb1-ee30d7a51ee2.png) ![redux-logo-48](https://user-images.githubusercontent.com/88290587/177467683-032a6183-4009-4246-b114-0b2cc357fb74.png)![nodejs-logo-48](https://user-images.githubusercontent.com/88290587/177467991-52a5ffa9-7669-4931-bb96-13e1fa6ac305.png)![postgresql-logo-48](https://user-images.githubusercontent.com/88290587/177468027-690fbdc5-673b-401d-a6b9-149504b80ad0.png)![git-logo-48](https://user-images.githubusercontent.com/88290587/177468049-a4e22240-b0cc-4bf5-98db-5be522a52acf.png)![heroku-logo-48](https://user-images.githubusercontent.com/88290587/177468313-8545f4f8-6c8c-47a2-9267-fc204070921d.png) ![bootstrap-logo-48](https://user-images.githubusercontent.com/88290587/177468609-c42f6bd0-d136-458e-b1d9-ff8572054018.png) ![html5-logo-48](https://user-images.githubusercontent.com/88290587/177468631-6b00716d-285c-4a9a-a6ec-98cedf32e4e0.png) ![css3-logo-48](https://user-images.githubusercontent.com/88290587/177468646-471abfdd-f4a5-4d1a-a6d5-dfcb8fa1af8a.png)
-![image](https://user-images.githubusercontent.com/88290587/177469975-6fd1b112-d810-428d-aaa3-17b5e217ca0a.png) ![image](https://user-images.githubusercontent.com/88290587/177469673-91549b12-7896-4b2d-8ef8-cffedc4097e4.png)
-
-
-
-# Proyectos Recientes - Last proyects!
-
-### Finder app => https://finder-app-omega.vercel.app/
-
-![FINDER-JOB](https://user-images.githubusercontent.com/88290587/174130729-49e63a54-8862-4058-8ec7-921341f034a2.png)
-
-### Dog App => https://findog-app.vercel.app/
-
-![dog_app](https://user-images.githubusercontent.com/88290587/177466236-b2e4a6d8-79ad-4ad5-b22d-5e903c5ab8a8.png)
-
-
-### Let's Cook APP => https://letscook-omega.vercel.app/
-
-![food_app](https://user-images.githubusercontent.com/88290587/177466025-5368bd12-d8a6-471d-bce2-e1d99ad64101.png)
-
-
-### WEATHER APP => https://weather-app-navy-omega.vercel.app/
-
-![weather_app](https://user-images.githubusercontent.com/88290587/177465918-ca4d2f61-76f9-466c-835b-03976ade32a5.png)
